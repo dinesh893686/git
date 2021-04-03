@@ -3,4 +3,4 @@ phone
 touchscreen
 scratchless glass -gorilla glass
 
-contact list
+
